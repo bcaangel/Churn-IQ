@@ -1,1 +1,0 @@
-SELECT * FROM churn_modelling_db.customertable;
