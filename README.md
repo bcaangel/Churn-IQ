@@ -662,7 +662,8 @@ The complete project includes:
 
 # Project Information
 
-**Name:** ANGEL N
+Name: ANGEL N
+
 AF CODE: AF05259802
 
 **Course & Centre Name:** Data & Business Analyst with AI – Anudip Foundation, Pallavaram
@@ -679,7 +680,8 @@ AF CODE: AF05259802
 
 # Author
 
-**ANGEL N**
+ANGEL N
+
 AF CODE: AF05259802
 
 **Data & Business Analyst with AI – Anudip Foundation, Pallavaram**
